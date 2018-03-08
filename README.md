@@ -1,2 +1,3 @@
-# SISBID_Practice
-My practice files from Module 3 - Reproducibility at SISBID 2017
+# Analysis of Number of Deaths in the United States (1999-2015)
+
+The data analysis is based on US death records data from 1999-2015 downloaded from data.gov website.  
